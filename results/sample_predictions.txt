@@ -1,0 +1,25 @@
+Customer Message:
+I am checking if there is any scheduled maintenance today.
+Actual Sentiment: neutral
+Predicted Sentiment: neutral
+
+Customer Message:
+The app experience is smooth and reliable. I appreciate the quick response.
+Actual Sentiment: positive
+Predicted Sentiment: positive
+
+Customer Message:
+Can you confirm whether my ticket has been assigned?
+Actual Sentiment: neutral
+Predicted Sentiment: neutral
+
+Customer Message:
+I have raised multiple tickets but nobody has fixed the problem. My ticket number is 88027.
+Actual Sentiment: negative
+Predicted Sentiment: negative
+
+Customer Message:
+Billing is incorrect and I was charged twice this month.
+Actual Sentiment: negative
+Predicted Sentiment: negative
+
