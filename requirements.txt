@@ -1,7 +1,10 @@
-pandas
-numpy
-matplotlib
-scikit-learn
-nltk
-tensorflow
-jupyter
+Requirements
+
+Python Libraries Used
+*pandas
+*numpy
+*matplotlib
+*scikit-learn
+*nltk
+*tensorflow
+*jupyter
